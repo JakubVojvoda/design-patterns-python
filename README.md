@@ -9,8 +9,8 @@ larger structures) and behavioral patterns (the assignment of responsibilities b
 objects).  
 
 - Creational Patterns 
- - [Abstract Factory], todo
- - [Builder], todo
+ - [Abstract Factory], families of product objects
+ - [Builder], how a composite object gets created
  - [Factory Method], todo
  - [Prototype], todo
  - [Singleton], todo 
