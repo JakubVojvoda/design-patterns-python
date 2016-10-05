@@ -11,7 +11,7 @@ objects).
 - Creational Patterns 
  - [Abstract Factory], families of product objects
  - [Builder], how a composite object gets created
- - [Factory Method], todo
+ - [Factory Method], subclass of object that is instantiated
  - [Prototype], todo
  - [Singleton], todo 
 - Structural Patterns
