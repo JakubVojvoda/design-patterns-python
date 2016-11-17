@@ -17,7 +17,7 @@ objects).
 - Structural Patterns
  - [Adapter], interface to an object
  - [Bridge], implementation of an object 
- - [Composite], todo
+ - [Composite], structure and composition of an object
  - [Decorator], todo
  - [Façade], todo
  - [Flyweight], todo
