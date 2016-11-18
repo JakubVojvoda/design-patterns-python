@@ -18,7 +18,7 @@ objects).
  - [Adapter], interface to an object
  - [Bridge], implementation of an object 
  - [Composite], structure and composition of an object
- - [Decorator], todo
+ - [Decorator], responsibilities of an object without subclassing
  - [Façade], todo
  - [Flyweight], todo
  - [Proxy], todo
