@@ -19,7 +19,7 @@ objects).
  - [Bridge], implementation of an object 
  - [Composite], structure and composition of an object
  - [Decorator], responsibilities of an object without subclassing
- - [Façade], todo
+ - [Façade], interface to a subsystem
  - [Flyweight], todo
  - [Proxy], todo
 - Behavioral Patterns
