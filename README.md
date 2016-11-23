@@ -21,7 +21,7 @@ objects).
  - [Decorator], responsibilities of an object without subclassing
  - [Façade], interface to a subsystem
  - [Flyweight], todo
- - [Proxy], todo
+ - [Proxy], how an object is accessed (its location)
 - Behavioral Patterns
  - [Chain of Responsibility], todo
  - [Command], todo
