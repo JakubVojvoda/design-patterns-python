@@ -34,7 +34,8 @@ class Adaptee:
 #
 class Adapter(Target, Adaptee):
   def __init__(self):
-    Adaptee.__init__(self)  
+    Adaptee.__init__(self)
+    Target.__init__(self)  
   
   def request(self):
     return self.specificRequest()  
