@@ -23,7 +23,7 @@ objects).
  - [Flyweight], todo
  - [Proxy], how an object is accessed (its location)
 - Behavioral Patterns
- - [Chain of Responsibility], todo
+ - [Chain of Responsibility], object that can fulfill a request
  - [Command], todo
  - [Interpreter], todo
  - [Iterator], todo
