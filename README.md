@@ -24,7 +24,7 @@ objects).
  - [Proxy], how an object is accessed (its location)
 - Behavioral Patterns
  - [Chain of Responsibility], object that can fulfill a request
- - [Command], todo
+ - [Command], when and how a request is fulfilled
  - [Interpreter], todo
  - [Iterator], todo
  - [Mediator], todo
