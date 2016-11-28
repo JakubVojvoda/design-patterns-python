@@ -25,7 +25,7 @@ objects).
 - Behavioral Patterns
  - [Chain of Responsibility], object that can fulfill a request
  - [Command], when and how a request is fulfilled
- - [Interpreter], todo
+ - [Interpreter], grammar and interpretation of a language
  - [Iterator], todo
  - [Mediator], todo
  - [Memento], todo 
