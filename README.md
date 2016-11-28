@@ -26,7 +26,7 @@ objects).
  - [Chain of Responsibility], object that can fulfill a request
  - [Command], when and how a request is fulfilled
  - [Interpreter], grammar and interpretation of a language
- - [Iterator], todo
+ - [Iterator], how an aggregate's elements are accessed
  - [Mediator], todo
  - [Memento], todo 
  - [Observer], todo
