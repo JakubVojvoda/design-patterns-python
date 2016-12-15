@@ -32,7 +32,7 @@ objects).
  - [Observer], how the dependent objects stay up to date
  - [State], states of an object
  - [Strategy], an algorithm
- - [Template Method], todo
+ - [Template Method], steps of an algorithm
  - [Visitor], todo
 
 ### Other Languages
