@@ -1,5 +1,5 @@
 #
-# Python Design Patterns: Command
+# Python Design Patterns: Template Method
 # Author: Jakub Vojvoda [github.com/JakubVojvoda]
 # 2016
 #
